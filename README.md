@@ -29,8 +29,8 @@ It also logs **execution time** and **memory usage** to the console for better d
   
 - Console logs show:  
   - Search start/end  
-  - Time taken  
-  - Memory usage (`psutil`)
+  - **Time taken**  
+  - **Memory usage** (`psutil`)
 
 <br>
 <p align="center">
